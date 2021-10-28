@@ -1,0 +1,718 @@
+[
+    {
+        "id": 1,
+        "nombre": "Buje Reduccion",
+        "imagen":"./img/1",
+        "datos": [
+            {
+                "codigo": 1061,
+                "medida": "1x3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1062,
+                "medida": "1x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1063,
+                "medida": "3/4x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1064,
+                "medida": "1/2x3/8",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2059,
+                "medida": "1 1/4x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2060,
+                "medida": "2x1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2061,
+                "medida": "2x1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2062,
+                "medida": "2x 1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2063,
+                "medida": "1 1/2x1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2064,
+                "medida": "1 1/2x1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2065,
+                "medida": "1 1/4x1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2066,
+                "medida": "2x3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2067,
+                "medida": "2x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2068,
+                "medida": "1 1/2x3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2069,
+                "medida": "1 1/2x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2070,
+                "medida": "1 1/4x3/4",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 2,
+        "nombre": "Codo 45 HH",
+        "imagen":"./img/2",
+        "datos": [
+            {
+                "codigo": 3001,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 3002,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 3003,
+                "medida": "1",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 3,
+        "nombre": "Codo 90 HH",
+        "imagen":"./img/3",
+        "datos": [
+            {
+                "codigo": 1017,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1018,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1019,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2010,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2011,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2012,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 4,
+        "nombre": "Codo 90 MH",
+        "imagen":"./img/4",
+        "datos": [
+            {
+                "codigo": 1023,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1024,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1025,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2026,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2027,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2028,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 5,
+        "nombre": "Codo 90 Reduccion",
+        "imagen":"./img/5",
+        "datos": [
+            {
+                "codigo": 1020,
+                "medida": "3/4x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1021,
+                "medida": "1x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1022,
+                "medida": "1x3/4",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 6,
+        "nombre": "Cupla HH",
+        "imagen":"./img/6",
+        "datos": [
+            {
+                "codigo": 1033,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1034,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1035,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2033,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2034,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2035,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 7,
+        "nombre": "Cupla MH",
+        "imagen":"./img/7",
+        "datos": [
+            {
+                "codigo": 1090,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1091,
+                "medida": "1/2 7mm",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1092,
+                "medida": "1/2 14mm",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1093,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1096,
+                "medida": "1",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 8,
+        "nombre": "Cupla Reduccion",
+        "imagen":"./img/8",
+        "datos": [
+            {
+                "codigo": 1036,
+                "medida": "3/4x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1037,
+                "medida": "1x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1038,
+                "medida": "1x3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1039,
+                "medida": "1/2x3/8",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2036,
+                "medida": "1 1/4x1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2037,
+                "medida": "1 1/2x1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2038,
+                "medida": "2x1 1/2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 9,
+        "nombre": "Curva 90 HH",
+        "imagen":"./img/9",
+        "datos": [
+            {
+                "codigo": 4001,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 4002,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 4003,
+                "medida": "1",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 10,
+        "nombre": "Entrerrosca",
+        "imagen":"./img/10",
+        "datos": [
+            {
+                "codigo": 1071,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1072,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1073,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2071,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2072,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2073,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 11,
+        "nombre": "Entrerrosca Reduccion",
+        "imagen":"./img/11",
+        "datos": [
+            {
+                "codigo": 1074,
+                "medida": "1x3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1075,
+                "medida": "1x1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1076,
+                "medida": "3/4x1/2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 12,
+        "nombre": "Niple x 10cm",
+        "imagen":"./img/12",
+        "datos": [
+            {
+                "codigo": 7710,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7810,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7910,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7110,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7210,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7310,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 13,
+        "nombre": "Niple x 12cm",
+        "imagen":"./img/12",
+        "datos": [
+            {
+                "codigo": 7712,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7812,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7912,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7112,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7212,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7312,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 14,
+        "nombre": "Niple x 15cm",
+        "imagen":"./img/12",
+        "datos": [
+            {
+                "codigo": 7715,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7815,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7915,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7115,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7215,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7315,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 15,
+        "nombre": "Niple x 6cm",
+        "imagen":"./img/12",
+        "datos": [
+            {
+                "codigo": 7706,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7806,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7906,
+                "medida": "1",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 16,
+        "nombre": "Niple x 8cm",
+        "imagen":"./img/12",
+        "datos": [
+            {
+                "codigo": 7708,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7808,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 7908,
+                "medida": "1",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 17,
+        "nombre": "Tapa H",
+        "imagen":"./img/17",
+        "datos": [
+            {
+                "codigo": 1041,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1042,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1043,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2044,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2045,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2046,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 18,
+        "nombre": "Tapon M",
+        "imagen":"./img/18",
+        "datos": [
+            {
+                "codigo": 1051,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1052,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1053,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2054,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2055,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2056,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 19,
+        "nombre": "Te HHH",
+        "imagen":"./img/19",
+        "datos": [
+            {
+                "codigo": 1001,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1002,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1003,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2001,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2002,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2003,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 20,
+        "nombre": "Te Reduccion",
+        "imagen":"./img/20",
+        "datos": [
+            {
+                "codigo": 1004,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1005,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1006,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2004,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2005,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2006,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    },
+    {
+        "id": 21,
+        "nombre": "Union Doble",
+        "imagen":"./img/21",
+        "datos": [
+            {
+                "codigo": 1081,
+                "medida": "1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1082,
+                "medida": "3/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 1083,
+                "medida": "1",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2081,
+                "medida": "1 1/4",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2082,
+                "medida": "1 1/2",
+                "cantidad": 10000
+            },
+            {
+                "codigo": 2083,
+                "medida": "2",
+                "cantidad": 10000
+            }]
+    }
+]
